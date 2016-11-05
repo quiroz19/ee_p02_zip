@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ leer1()
+comment1.params=nombre
+comment1.target=java.lang.String\ leer(java.lang.String)
+comment2.params=nombre\ texto
+comment2.target=void\ recibe(java.lang.String,\ java.lang.String)
+comment3.params=nombre\ texto
+comment3.target=void\ crearTxt(java.lang.String,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
